@@ -1,1 +1,1 @@
-# Design-of-10-port-router-for-NoC
+# Design of 10-port Router for NoC
